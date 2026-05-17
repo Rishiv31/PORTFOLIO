@@ -69,10 +69,8 @@ export default function Hero() {
               <TypeAnimation
                 sequence={[
                   "Java Full Stack Developer", 2000,
-                  "Backend Engineer", 2000,
-                  "React Developer", 2000,
                   "Problem Solver", 2000,
-                  "IT Student @ HCET", 2000,
+                  "Software Engineer", 2000,
                 ]}
                 speed={50}
                 repeat={Infinity}
@@ -86,7 +84,7 @@ export default function Hero() {
               transition={{ delay: 0.6 }}
               className="text-gray-400 text-base lg:text-lg leading-relaxed mb-4 max-w-xl"
             >
-              Recent <span className="text-cyan-400 font-medium">B.Tech IT</span> graduate crafting scalable, elegant digital solutions. Passionate about building robust backends and intuitive frontends.
+              <span className="text-cyan-400 font-medium">B.Tech IT</span> graduate crafting scalable, elegant digital solutions. Passionate about building robust backends and intuitive frontends.
             </motion.p>
 
             <motion.div
