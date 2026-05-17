@@ -57,7 +57,7 @@ export default function Navbar() {
 
         {/* CTA */}
         <div className="hidden lg:block">
-          <a href="/src/assets/resume.pdf" download="Rishi_T_Resume.pdf" className="btn-primary text-white flex items-center gap-2 text-sm relative group overflow-hidden">
+          <a href="/resume.pdf" download="Rishi_T_Resume.pdf" className="btn-primary text-white flex items-center gap-2 text-sm relative group overflow-hidden">
             <span className="relative z-10">Download CV</span>
             <div className="absolute inset-0 bg-white/20 translate-y-full group-hover:translate-y-0 transition-transform duration-300" />
           </a>

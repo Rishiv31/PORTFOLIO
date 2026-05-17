@@ -112,7 +112,7 @@ export default function Hero() {
                   🚀 View Projects
                 </button>
               </Link>
-              <a href="/src/assets/resume.pdf" download="Rishi_T_Resume.pdf" className="btn-outline flex items-center gap-2">
+              <a href="/resume.pdf" download="Rishi_T_Resume.pdf" className="btn-outline flex items-center gap-2">
                 📄 Download CV
               </a>
             </motion.div>
