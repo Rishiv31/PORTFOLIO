@@ -86,7 +86,7 @@ export default function Hero() {
               transition={{ delay: 0.6 }}
               className="text-gray-400 text-base lg:text-lg leading-relaxed mb-4 max-w-xl"
             >
-              Final-year <span className="text-cyan-400 font-medium">B.Tech IT</span> student crafting scalable, elegant digital solutions. Passionate about building robust backends and intuitive frontends.
+              Recent <span className="text-cyan-400 font-medium">B.Tech IT</span> graduate crafting scalable, elegant digital solutions. Passionate about building robust backends and intuitive frontends.
             </motion.p>
 
             <motion.div
